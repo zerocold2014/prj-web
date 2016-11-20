@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="prj-web-home:war">
+    <output-path>$PROJECT_DIR$/prj-web-home/target</output-path>
+    <root id="archive" name="prj-web-home.war">
+      <element id="artifact" artifact-name="prj-web-home:war exploded" />
+    </root>
+  </artifact>
+</component>
